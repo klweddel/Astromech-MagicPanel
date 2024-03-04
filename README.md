@@ -40,9 +40,7 @@ I used an Arduino micro without headers. By getting it without headers you can o
 
 Mount
 -------------------------------------------------------------------------------
-The STL for the 3D printed mount can be found here:
-
- - https://www.thingiverse.com/thing:4610284
+The STL for the 3D printed mount can be found in this repository.
 
 You will also need some 0.08" clear acrylic sheet which can be purchased online or Lowes/Home Depot. After cutting the piece to shape, you will need to heat the piece in the oven to mimic the curve of the dome.
 
